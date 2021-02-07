@@ -2,4 +2,4 @@
 
 implemetation of basic optimization algorithms
 
-![formulas](/img/formulas)
+![formulas](/img/formulas.PNG)
